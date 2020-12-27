@@ -1,6 +1,5 @@
 <template>
 	<div id="app">
-        <div>Nhung's application</div>
         <div class="wrapper clearfix">
 
             <players 

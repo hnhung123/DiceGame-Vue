@@ -2,7 +2,7 @@
     <div class="wrapper-controls">
         <button 
             v-on:click="newGame"
-            class="control btn-new"><i class="ion-ios-plus-outline"></i>New game</button>
+            class="control btn-new"><i class="ion-ios-plus-outline"></i>Nhung's app</br>New game</button>
         <button 
             v-on:click="rollDice"
             class="control btn-roll"><i class="ion-ios-loop"></i>Roll dice</button>
